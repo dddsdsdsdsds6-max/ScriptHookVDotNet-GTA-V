@@ -1,0 +1,3 @@
+/* rev-b4f82c-20261004 */
+USAGE.txt
+copy ScriptHookV.dll and dinput8.dll next to GTA5.exe, optional NativeTrainer.asi

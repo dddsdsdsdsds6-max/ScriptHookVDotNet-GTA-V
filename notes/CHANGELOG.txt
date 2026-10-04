@@ -1,0 +1,3 @@
+/* rev-b4f82c-20261004 */
+CHANGELOG.txt
+3889.0 Jul 15 2026: Legacy 3889, Enhanced 1158.13, ASI loader, trainer
